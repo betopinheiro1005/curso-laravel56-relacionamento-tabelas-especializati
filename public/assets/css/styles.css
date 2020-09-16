@@ -1,0 +1,12 @@
+.titulo{
+    background-color: rgba(0, 0, 255, 0.1);
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.total_registros{
+    color: brown;
+    padding: 10px;
+    display: inline;
+    float: right;
+}
