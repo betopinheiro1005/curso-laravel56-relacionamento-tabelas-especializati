@@ -1,3 +1,32 @@
+# Curso de Laravel 5.6 - Relacionamento entre tabelas
+
+## EspecializaTI (Carlos Ferreira)
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=ylOBD8D0GBU&list=PLVSNL1PHDWvSk2zxNTYzGRnPMQTFyrYUi)
+
+### Lista de aulas  
+
+Aula 01 - Instalando e configurando  
+Aula 02 - Criando tabelas ONE TO ONE  
+Aula 03 - Relacionamentos ONE TO ONE  
+Aula 04 - Relacionamento ONE TO ONE inverso  
+Aula 05 - Relacionamento ONE TO ONE insert  
+Aula 06 - Criando tabelas ONE TO many  
+Aula 07 - Relacionamento ONE TO many  
+Aula 08 - Relacionamento many TO one  
+Aula 09 - Dicas valiosas sobre relacionamentos de tabelas  
+Aula 11 - One to many inserir  
+Aula 12 - Relacionamento Has Many Through  
+Aula 13 - Criar tabelas many to many  
+Aula 14 - Relacionamento many to many  
+Aula 15 - Relacionamento many to many inverso  
+Aula 16 - many to many insert  
+Aula 17 - Relacionamento polymorphic  
+Aula 18 - Polymorphic insert  
+Aula 19 - Polymorphic Listar  
+
+##
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
