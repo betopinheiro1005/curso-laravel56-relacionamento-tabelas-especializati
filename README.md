@@ -2,6 +2,8 @@
 
 ## EspecializaTI (Carlos Ferreira)
 
+### Instalação de dependências
+
 ```bash
 composer install
 ```
