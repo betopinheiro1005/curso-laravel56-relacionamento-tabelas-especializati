@@ -2,9 +2,11 @@
 
 ## EspecializaTI (Carlos Ferreira)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=ylOBD8D0GBU&list=PLVSNL1PHDWvSk2zxNTYzGRnPMQTFyrYUi)
+```bash
+composer install
+```
 
-### Lista de aulas  
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=ylOBD8D0GBU&list=PLVSNL1PHDWvSk2zxNTYzGRnPMQTFyrYUi)  
 
 Aula 01 - Instalando e configurando  
 Aula 02 - Criando tabelas ONE TO ONE  
